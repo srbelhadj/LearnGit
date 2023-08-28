@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+README*
+LICENSE*
 # Compiled Object files
 *.slo
 *.lo
