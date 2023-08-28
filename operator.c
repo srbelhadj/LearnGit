@@ -11,3 +11,7 @@ int main()
   
   cout<<"plus" << x+y  << endl;
 }
+int add (int x, inty)
+{
+	return x +y;
+}
